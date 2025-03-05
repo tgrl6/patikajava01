@@ -1,4 +1,4 @@
-package jave.deneme01;
+package patika01;
 
 public class swapNumberseaxample {
     public static void main(String[] args) {

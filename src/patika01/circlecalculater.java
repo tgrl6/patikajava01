@@ -1,4 +1,4 @@
-package jave.deneme01;
+package patika01;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 

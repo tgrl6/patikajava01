@@ -1,4 +1,4 @@
-package jave.deneme01;
+package patika01;
 import java.util.Scanner;
 public class tepmratureexample {
     public static void main(String[] args) {
