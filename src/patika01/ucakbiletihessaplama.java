@@ -18,7 +18,7 @@ public class ucakbiletihessaplama {
                 normalfiyat = km*0.10;
                 if(yas<12) {
                     yasindirimi = normalfiyat*0.5 ;
-                } else if ( yas>=12 && yas<=24){
+                } else if (12 <= yas && yas<=24){
                     yasindirimi = normalfiyat*0.10 ;
                 } else if (yas> 65) {
                     yasindirimi= normalfiyat*0.3;
