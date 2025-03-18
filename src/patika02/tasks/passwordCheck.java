@@ -43,7 +43,8 @@ public class passwordCheck {
             }
 
 
-            System.out.println("kalan denema sayınız: " + (denemeSayisimax - denemeSayisi-1)+"Lütfen 10dk sonra yeniden deneyin" ); //sayacımızın işlemi burada
+            System.out.println("kalan denema sayınız: " + (denemeSayisimax - denemeSayisi-1)+"Lütfen 10dk sonra yeniden deneyin" );
+            //sayacımızın işlemi burada
 
 
         }
