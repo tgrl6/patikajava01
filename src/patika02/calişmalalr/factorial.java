@@ -1,4 +1,4 @@
-package patika02;
+package patika02.calişmalalr;
 
 public class factorial {
     public static void main(String[] args) {

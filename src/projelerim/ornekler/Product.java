@@ -1,4 +1,4 @@
-package projeler.ornekler;
+package projelerim.ornekler;
 
 public class Product {
     int id;

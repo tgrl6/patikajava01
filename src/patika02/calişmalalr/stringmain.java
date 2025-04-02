@@ -1,7 +1,6 @@
-package patika02;
+package patika02.calişmalalr;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 
 public class stringmain {
     public static void main(String[] args) {

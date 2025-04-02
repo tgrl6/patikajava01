@@ -1,4 +1,4 @@
-package mytry.systemforlibrary;
+package projelerim.systemforlibrary;
 
 import java.util.ArrayList;
 
@@ -6,21 +6,7 @@ public class librarybooks {
 
 
     public static class Library {
-        ArrayList<Book> books = new ArrayList<>();  // Kitapları saklayacak liste
-
-        // Kitap ekleme metodu
-        public void addBook(Book book) {
-            books.add(book);  // Listeye kitap ekler
-        }
-
-        // Kitapları yazdırma metodu
-        public void printBooks() {
-            for (Book book : books) {
-                System.out.println(book);  // Kitap bilgilerini yazdırır
-            }
-        }
     }
-
 }
 
 

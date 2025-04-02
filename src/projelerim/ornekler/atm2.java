@@ -1,4 +1,4 @@
-package mytry.systemforlibrary;
+package projelerim.ornekler;
 
 import java.util.Scanner;
 
@@ -68,7 +68,7 @@ Kullanıcı çıkış yaptığında "İyi günler dileriz!" mesajı göstermeli 
                 if (userinfo[i][0] == kartno && userinfo[i][1] == password) {
                     girisBasarili = true;
                     kullaniciIndex = i;
-                    break;
+                    break; // Doğru giriş yapıldı, döngüden çık
                 }
             }
             if (!girisBasarili) {

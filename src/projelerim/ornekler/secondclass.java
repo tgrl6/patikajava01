@@ -1,4 +1,4 @@
-package projeler.ornekler;
+package projelerim.ornekler;
 
 public class secondclass {
     public static void main(String[] args) {

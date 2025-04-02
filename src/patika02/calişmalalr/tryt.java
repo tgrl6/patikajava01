@@ -1,4 +1,4 @@
-package patika02;
+package patika02.calişmalalr;
 
 public class tryt {
     public static void main(String[] args) {

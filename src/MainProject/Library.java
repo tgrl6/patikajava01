@@ -49,7 +49,7 @@ public class Library {
         System.out.println("\n Books in Our Collection:");
         for (Book book : books) {
             String status = book.isBorrowed() ? "(The book you're looking for has been borrowed.)" : "(The book you searched for is currently available)";
-            System.out.println(book.getid() +"---"+ book.getTitle() + "---" + book.getAuthor() + "---" + status);
+            System.out.println( book.getTitle() + "---" + book.getAuthor() + "---" + status);
         }
     }
 
